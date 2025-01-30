@@ -30,6 +30,7 @@ ul {
 button {
     font-family: "Montserrat", serif;
     font-size: 1rem;
+    font-weight: bold;
     background-color: #2A324B;
     color: #fff;
     border: none;
