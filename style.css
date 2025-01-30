@@ -50,4 +50,12 @@ button.active {
     background-color: #fff;
     padding: 3rem;
     font-family: "Montserrat", serif;
+
+    h2 {
+        color: #2A324B;
+    }
+
+    a {
+        color: #58699D;
+    }
 }
