@@ -8,7 +8,6 @@ body {
     align-items: center;
     background-color: #E1E5EE;
     font-family: "Montserrat", serif;
-    font-size: 1.5rem;
 }
 
 section {
@@ -49,6 +48,6 @@ button.active {
 
 #kategori {
     background-color: #fff;
-    padding: 2rem;
+    padding: 3rem;
     font-family: "Montserrat", serif;
 }
